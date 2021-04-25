@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="convert">convert</string>
+    <string name="indian_to">Indian to ......</string>
+    <string name="euro">Euro</string>
+    <string name="dollar">Dollar</string>
+    <string name="aud">AUD</string>
+    <string name="aed">AED</string>
+</resources>
